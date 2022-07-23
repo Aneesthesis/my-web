@@ -2,7 +2,7 @@ body {
   color: #40514E;
   margin: 0;
   text-align: center;
-  
+
 }
 
 h1 {
@@ -31,6 +31,8 @@ p {
   font-size: 0.9rem;
 }
 
+
+
 hr {
   border: dotted #EAF6F6 6px;
   border-bottom: none;
@@ -55,6 +57,16 @@ a:hover{
   text-align: left;
 
   width: 50%;
+
+}
+.lovefries{
+  font-size: 100%;
+  margin-top: 0;
+  font-weight: normal;
+}
+
+.say-hi{
+  margin-bottom: 10px;
 
 }
 
