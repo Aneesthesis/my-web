@@ -2,7 +2,7 @@ body {
   color: #40514E;
   margin: 0;
   text-align: center;
-  font-family: 'Merriweather', serif;
+  
 }
 
 h1 {
@@ -23,10 +23,12 @@ h2 {
 h3 {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
 }
 
 p {
   line-height: 2;
+  font-size: 0.9rem;
 }
 
 hr {
